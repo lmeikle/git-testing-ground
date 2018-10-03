@@ -4,4 +4,3 @@ Ok making a change in branch-1
 Ok making a change in the remote remote!
 branch-2
 another branch-2 change
-a change to reset
